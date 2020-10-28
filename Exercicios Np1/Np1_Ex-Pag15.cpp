@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	for(i = 0; i < 5; i++)
 	{
 		cout << "Nome da " << i+1 << " pessoa: " << p[i].nome << endl;
-		cout << "Endereço da " << i+1 << " pessoa: " << p[i].endereco << endl;
+		cout << "EndereÃ§o da " << i+1 << " pessoa: " << p[i].endereco << endl;
 		cout << "CPF da " << i+1 << " pessoa: " << p[i].cpf << endl;
 		cout << "Idade da " << i+1 << " pessoa: " << p[i].idade << endl;
 		cout << "=======================" << endl;
